@@ -82,7 +82,4 @@ Enter your choice: 2
 ID: 1
 Original Text: Content summarization is the process of reducing a text to its essential ideas, while maintaining its original meaning.
 Summary: Content summarization reduces a text to its key ideas while keeping its meaning.
-Timestamp: 2024-12-30 14:30:00
---------------------------------------------------
-License
-This project is open source and available under the MIT License.
+
